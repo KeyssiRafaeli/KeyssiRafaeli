@@ -7,16 +7,21 @@
 
 -💌 Contato: rafaelikeyssi@gmail.com
 
--📌 Sobre mim:
-Olá! Sou Keyssi Rafaeli, uma estudante de programação do segundo ano do ensino médio, focada em desenvolvimento web e programação front-end.
+Estou empolgada para compartilhar minhas criações e aprender com a comunidade de desenvolvedores e designers talentosos. Vamos criar coisas incríveis juntos! 😊
 
-Desde que comecei a explorar a programação, me apaixonei por criar interfaces atraentes e interativas. Meu objetivo é construir uma carreira no front-end, unindo minhas habilidades de programação ao meu amor pelo design, para criar experiências digitais memoráveis.
-
-Estou constantemente aprimorando minhas habilidades em HTML, CSS e JavaScript para desenvolver sites responsivos, intuitivos e visualmente atraentes. Além disso, estou animada para explorar frameworks como React ou Vue.js para ampliar minhas habilidades no front-end.
-
-Tenho um forte interesse em design gráfico, pois acredito que a combinação de programação e design resulta em projetos completos e envolventes. Busco sempre aprender novas ferramentas e técnicas de design para aprimorar minha compreensão visual e aplicá-las em meus projetos.
-
-Se você tiver alguma dica ou conselho sobre desenvolvimento, ficarei imensamente grata. Acredito que compartilhar conhecimento e aprender com a comunidade são essenciais para o meu crescimento como desenvolvedora.
-
-Entre em contato comigo pelo e-mail: 💌 rafaelikeyssi@gmail.com. Estou empolgada para compartilhar minhas criações e aprender com a comunidade de desenvolvedores e designers talentosos. Vamos criar coisas incríveis juntos! 😊
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+ <div> 
+  <a href="https://instagram.com/rf.kyss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
