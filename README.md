@@ -1,7 +1,7 @@
 ### Oii, Muito prazer 🥰
 
 
--💻 Atualmente estudando para a carreira em Front-end e Design grafico.
+-💻 Atualmente estudando para a carreira em Front-end e Design gráfico.
 
 Abaixo está listado ferramentas e linguaguens que venho aprendendo, e outras que futuramente também desejo dominar:
 
