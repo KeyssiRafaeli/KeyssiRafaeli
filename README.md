@@ -1,5 +1,4 @@
-### Oii, Muito prazer 🥰
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Code&weight=800&pause=1000&color=5D3BD9&center=true&width=500&lines=Welcome!%F0%9F%98%8A;My+name+is+Keyssi+Rafaeli;I'm+a+front-end+developer;I'm+16+years+old;I'm+from+Brazil)](https://git.io/typing-svg) <Br>
 
 -💻 Atualmente estudando para a carreira em Front-end e Design gráfico.
 
