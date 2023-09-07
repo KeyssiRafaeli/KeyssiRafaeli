@@ -6,7 +6,7 @@
 
 <blockquote>
     <p><i>
-        Meu compromisso é me tornar uma programadora altamente qualificada, pronta para atender às necessidades dos clientes com excelência. Através de minha dedicação e persistência diárias, estou cada vez mais próxima de alcançar este objetivo.
+        "Meu compromisso é me tornar uma programadora altamente qualificada, pronta para atender às necessidades dos clientes com excelência. Através de minha dedicação e persistência diárias, estou cada vez mais próxima de alcançar este objetivo."
     </i></p>
 </blockquote>
 
