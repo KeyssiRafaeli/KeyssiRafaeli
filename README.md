@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Code&size=25&pause=1000&color=000000&background=FFF8F4&center=true&vCenter=true&width=1200&height=110&lines=Welcome!+%F0%9F%91%8B%F0%9F%8F%BC;My+name+is+Keyssi+Rafaeli;I'm+16+years+old;I'm+Brazilian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Code&size=24&pause=1000&color=000000&background=F3EAE4&center=true&vCenter=true&width=1200&height=130&lines=Welcome!+%F0%9F%91%8B%F0%9F%8F%BC;My+name+is+Keyssi+Rafaeli;I'm+16+years+old;I'm+brazilian;Hello+World!+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <div align="center">
 <h5><b>DESENVOLVEDORA FRONT-END 💻</b></h5
