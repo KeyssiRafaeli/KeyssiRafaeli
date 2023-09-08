@@ -47,7 +47,7 @@ Ferramentas que pretendo dominar:
 </div>
 <hr>
 
-📌 Além de aprender essas tecnologias, venho me empenhando também para aprimorar outros tipos de conhecimentos. Acredito que ter boas soft skills me tornará uma profissional melhor, e me ajudara a ter uma melhor performance no ambiente profissional e pessoal.
+📌 Além de aprender essas tecnologias, estou me dedicando para aprimorar outros tipos de conhecimento. Acredito que ter boas soft skills me tornará uma profissional melhor, e me ajudara a ter uma melhor performance no ambiente profissional e pessoal.
 
 </details>
 
